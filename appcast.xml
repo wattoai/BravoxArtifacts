@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bravox Releases</title>
+        <link>https://github.com/wattoai/bravox/blob/main/appcast.xml</link>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Major Release</h3>
+            ]]></description>
+            <enclosure 
+                url="https://github.com/wattoai/bravox/releases/download/v1.1.1/BravoxApp.dmg" 
+                type="application/octet-stream" 
+                sparkle:edSignature="4zT4rwGN7sBu8/CU86J74LhgWLxXrBl233LkjIpSIjVU2YLYzfjDgMl/zAtR2khrP2b53Z/uD1pXXPCRBryHDg==" 
+                length="6504527"
+            />
+        </item>
+    </channel>
+</rss>
