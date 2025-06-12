@@ -14,7 +14,7 @@
                 <h3>Major Release</h3>
             ]]></description>
             <enclosure 
-                url="https://github.com/wattoai/bravox/releases/download/v1.1.1/BravoxApp.dmg" 
+                url="https://github.com/wattoai/BravoxArtifacts/releases/download/v1.1.0/BravoxApp.dmg" 
                 type="application/octet-stream" 
                 sparkle:edSignature="4zT4rwGN7sBu8/CU86J74LhgWLxXrBl233LkjIpSIjVU2YLYzfjDgMl/zAtR2khrP2b53Z/uD1pXXPCRBryHDg==" 
                 length="6504527"
