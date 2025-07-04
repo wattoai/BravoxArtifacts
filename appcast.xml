@@ -6,11 +6,14 @@
         <language>en</language>
         <item>
             <title>1.3.0</title>
-            <pubDate>Tue, 01 Jul 2025 21:42:23 -0700</pubDate>
+            <pubDate>Tue, 03 Jul 2025 21:42:23 -0700</pubDate>
             <sparkle:version>130</sparkle:version>
             <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/wattoai/BravoxArtifacts/releases/download/v1.3.0/BravoxApp.dmg" length="5901476" type="application/octet-stream" sparkle:edSignature="fNwqMA896JhwXkbw2eLvEcgD5K5rJhn3lZoYrwE3fcqAE/v2KEUCBxBoUFWZovthGvXLtMKbY/+QfTSg9JepBQ=="/>
+            <enclosure url="https://github.com/wattoai/BravoxArtifacts/releases/download/v1.3.0/BravoxApp.dmg" 
+                length="5897902" 
+                type="application/octet-stream" 
+                sparkle:edSignature="bjRZFFHrP5votFr0SkyBU+udC1Hz9sGPvxxP3zmsxa+gzG9qmLFjSBOtSA22ApysjYWnge3EBd5MkOe8NwSjCg=="/>
         </item>
     </channel>
 </rss>
