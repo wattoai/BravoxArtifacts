@@ -5,16 +5,12 @@
         <link>https://github.com/wattoai/bravox/blob/main/appcast.xml</link>
         <language>en</language>
         <item>
-            <title>1.3.1</title>
-            <pubDate>Sun, 06 Jul 2025 13:16:24 -0700</pubDate>
-            <sparkle:version>131</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <title>1.3.2</title>
+            <pubDate>Sun, 06 Jul 2025 17:11:17 -0700</pubDate>
+            <sparkle:version>132</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure 
-                url="https://github.com/wattoai/BravoxArtifacts/releases/download/v1.3.1/BravoxApp.dmg" 
-                length="5905826" 
-                type="application/octet-stream" 
-                sparkle:edSignature="P0w93RoFX5ZHDF0qMhEskex0H0iyG9EQ4J94om8eiO+OFugNuJDpln+a2nT+E2Mvo9x6UUgjcAWOXPlu7poOCA=="/>
+            <enclosure url="https://github.com/wattoai/BravoxArtifacts/releases/download/v1.3.2/BravoxApp.dmg" length="5901091" type="application/octet-stream" sparkle:edSignature="hXxTUxOTzdvnmgAfi3U8+8uAJg6DeO1MOLssmYzT9xexuLSULl9rzdgxcAOQ+D02fg0PP87NCga94Fz8/cPFAQ=="/>
         </item>
     </channel>
 </rss>
